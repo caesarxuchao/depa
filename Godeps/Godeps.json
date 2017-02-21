@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/caesarxuchao/depa",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/caesarxuchao/depb",
+			"Rev": "f70973ff155a5b3858d866e4b8d80379c6255a09"
+		}
+	]
+}

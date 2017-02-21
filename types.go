@@ -1,7 +1,7 @@
 package main
 
 import (
-	depb "github.com/caesarxuchao/depb/main"
+	depb "github.com/caesarxuchao/depb"
 )
 
 type A struct {
