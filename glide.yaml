@@ -1,0 +1,4 @@
+package: github.com/caesarxuchao/depa
+import:
+- package: github.com/caesarxuchao/depb
+  version: >= v1.0.0
